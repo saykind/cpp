@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstdlib>
-//#include <cstring>
 #define nl '\n'
 
 using namespace std;
